@@ -31,3 +31,6 @@ Do this !!
 ```
 man -l shrugapillar.1
 ```
+
+# Screenshot
+![image](https://raw.githubusercontent.com/R0X0RE0/shrugapillar-c/main/shrugapillar_screenshot.png)
