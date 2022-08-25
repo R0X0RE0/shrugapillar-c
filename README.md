@@ -1,5 +1,6 @@
 # shrugapillar-c
 ¯\\_(ツ)_/¯ Debian
+Idea totally not stolen from a joke JavaScript framework because I got bored and looked at ![awesome dev fun](https://github.com/mislavcimpersak/awesome-dev-fun)
 
 # Running
 Just run
