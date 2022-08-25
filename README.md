@@ -3,6 +3,8 @@
 
 Idea totally not stolen from a joke JavaScript framework because I got bored and looked at ![awesome dev fun](https://github.com/mislavcimpersak/awesome-dev-fun)
 
+A shrugapillar is a shruggie caterpillar :D
+
 # Running
 Just run
 ```
